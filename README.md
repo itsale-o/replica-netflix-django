@@ -107,7 +107,7 @@ Aqui estão alguns capturas de tela direto do meu projeto:
 
 Como dito anteriormente, este projeto foi inteiramente construído com [Django](https://docs.djangoproject.com/pt-br/4.2/), framework do python. 
 
-O Django é um framework com configurações bastante complexas, mas que permitiram a construção de um projeto bastante completo, a criação de uma base de dados de forma bastante simples e um gerenciamento ada base de dados bastante simples, visto que a página administraiva do Django é bastante intuitiva
+O Django é um framework com configurações bastante complexas, mas que permitiram a construção de um projeto bastante completo, a criação de uma base de dados de forma bastante simples e um gerenciamento da base de dados bastante tranquila, visto que a página administraiva do Django é muito intuitiva
 
 <div align="center">
 
